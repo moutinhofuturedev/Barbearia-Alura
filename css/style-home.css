@@ -1,0 +1,57 @@
+
+
+#barber {
+    width: 100%;
+    height: 550px;
+}
+
+.principal {
+    background: #cccccc;
+    padding: 30px;
+}
+
+h1 {
+    padding-left: 20px;
+}
+
+h2 {
+    height: 150px;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+em strong {
+    color: #ff0000;
+}
+
+#mission {
+    font-size: 20px;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+li {
+    font-style: italic;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.beneficios {
+    background: #ffffff;
+    padding: 20px;
+}
+
+#beneficios-image {
+    width: 50%;
+}
