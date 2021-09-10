@@ -1,0 +1,1 @@
+console.log("manipulando o DOM com JS");
